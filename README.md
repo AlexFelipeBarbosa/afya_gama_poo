@@ -12,8 +12,7 @@
 
 npm run jogar
 
-<img alt="apresentacao" src="https://raw.githubusercontent.com/alexfelipebarbosa/afya_gama_poo/main/assets/jokenpo.gif"> <br/>
-
+<img alt="apresentacao" src="https://github.com/AlexFelipeBarbosa/afya_gama_poo/blob/master/assets/jokenpo.gif"> <br/>
 
 ## :man: Alex Felipe Barbosa
 
